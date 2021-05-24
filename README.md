@@ -1,4 +1,4 @@
-# About MinorScripts
+# About minorScripts
 
 This repo includes some small/minor scripts written by Zhe Wang.
 

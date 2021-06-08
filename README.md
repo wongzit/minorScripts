@@ -18,7 +18,10 @@ The unit would be changed to Bohr rather than Angstrom.
 If you want to convert the .chk to .fchk files and move each job to a single folder after finishing one calculation,
 please un-comment the line 29-31 in the source code.
 
-## gimicInp v0.3 (2021-06-08)
-*gimicInp* is a script for generating GIMIC input file. I provided a Python version and a Bash shell version.
-The functions are same in both Python and Bash shell scripts.
+## gimicInp v0.2 for Python (2021-06-07)
+*gimicInp* is a Python script for generating GIMIC input file.
 User can specify the parameters and the input file **gimic.inp** will be saved at current dictionary.
+
+## gimicInp v0.3 for Bash Shell (2021-06-08)
+I provided a Bash shell version of *gimicInp*.
+The functions are same in both Python and Bash shell scripts.

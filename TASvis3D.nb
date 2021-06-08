@@ -1,0 +1,16 @@
+trans = Import["/Users/wangzhe/Desktop/1shot_trans_1ms_1000os.CSV"]
+
+tran = Catenate[{{#1, 420, #2}, {#1, 430, #3}, {#1, 440, #4}, {#1, 
+      450, #5}, {#1, 460, #6}, {#1, 470, #7}, {#1, 480, #8}, {#1, 
+      490, #9}, {#1, 500, #10}, {#1, 510, #11}, {#1, 520, #12}, {#1, 
+      530, #13}, {#1, 540, #14}, {#1, 550, #15}, {#1, 560, #16}, {#1, 
+      570, #17}, {#1, 580, #18}, {#1, 590, #19}, {#1, 600, #20}, {#1, 
+      610, #21}, {#1, 620, #22}} & @@@ trans]
+
+Show[ListPointPlot3D[tran, PlotRange -> All, 
+  ColorFunction -> "Rainbow", PlotStyle -> PointSize[Medium], 
+  RegionFunction -> Function[{x, y, z}, z > -0.02], Boxed -> False]]
+
+Show[ListPlot3D[tran, PlotRange -> All, 
+  ColorFunction -> "TemperatureMap", PerformanceGoal -> "Quality", 
+  RegionFunction -> Function[{x, y, z}, z > -0.02]]]

@@ -25,3 +25,6 @@ User can specify the parameters and the input file **gimic.inp** will be saved a
 ## gimicInp v0.3 for Bash Shell (2021-06-08)
 I provided a Bash shell version of *gimicInp*.
 The functions are same in both Python and Bash shell scripts.
+
+## orcaview.m
+This is a Matlab script from EasySpin, for visualization of EPR from ORCA calculation.

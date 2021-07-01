@@ -21,6 +21,7 @@ The unit would be changed to Bohr rather than Angstrom.
 *RunGJF* reads all .gjf files in current dictionary, and submit the to Gaussian 16 calculation one by one.
 If you want to convert the .chk to .fchk files and move each job to a single folder after finishing one calculation,
 please un-comment the line 29-31 in the source code.
+Update at 2021-07-01: a script for running RunGJF for LSF job system is uploaded.
 
 ## gimicInp v0.2 for Python (2021-06-07)
 *gimicInp* is a Python script for generating GIMIC input file.

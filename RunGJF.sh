@@ -13,7 +13,7 @@ echo "+           https://www.wangzhe95.net           +"
 echo =================================================
 
 nFilescur=$(ls ./*.gjf | wc -l)
-while [ $nFilescur != 0 ]
+while [ $nFilescur -gt 0 ]
 do
 	nFiles=$(ls ./*.gjf | wc -l)
 	echo

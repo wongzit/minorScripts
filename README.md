@@ -4,7 +4,7 @@ This repo includes some small/minor scripts written by Zhe Wang.
 
 **E-mail** wongzit@yahoo.co.jp
 
-**Homepage** https://www.wangzhe95.net
+**Homepage** https://wongzit.github.io
 
 ## TASvis3D v0.1 (2019-05-16)
 *TASvis3D* is my personal Mathematica .nb for visualize transient absorption spectra in 3D view. Origin can do the same thing.

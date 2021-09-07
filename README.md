@@ -22,6 +22,8 @@ The unit would be changed to Bohr rather than Angstrom.
 If you want to convert the .chk to .fchk files and move each job to a single folder after finishing one calculation,
 please un-comment the line 29-31 in the source code.
 
+**v2.0 update at 2021-09-07**: Add support for ORCA. Improved code quailty.
+
 
 **Update at 2021-07-01**: a script for running RunGJF for LSF job system is uploaded.
 

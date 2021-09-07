@@ -16,7 +16,7 @@ I wrote this script for my [GIMIC](https://github.com/qmcurrents/gimic) calculat
 It reads *mol.xyz* file at current dictionary and convert it to *mol-bohr.cml* file.
 The unit would be changed to Bohr rather than Angstrom.
 
-## RunGJF v1.1 (2021-06-05)
+## RunGJF v0.6 (2021-06-05)
 *RunGJF* is a Bash Shell script for running Gaussian jobs automatically.
 *RunGJF* reads all .gjf files in current dictionary, and submit the to Gaussian 16 calculation one by one.
 If you want to convert the .chk to .fchk files and move each job to a single folder after finishing one calculation,
@@ -24,8 +24,7 @@ please un-comment the line 29-31 in the source code.
 
 **v2.0 update at 2021-09-07**: Add support for ORCA. Improved code quailty.
 
-
-**Update at 2021-07-01**: a script for running RunGJF for LSF job system is uploaded.
+**v1.1 Update at 2021-07-01**: a script for running RunGJF for LSF job system is uploaded.
 
 ## gimicInp v0.2 for Python (2021-06-07)
 *gimicInp* is a Python script for generating GIMIC input file.

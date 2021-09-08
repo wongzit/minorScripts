@@ -26,6 +26,9 @@ please un-comment the line 29-31 in the source code.
 
 **v1.1 Update at 2021-07-01**: a script for running RunGJF for LSF job system is uploaded.
 
+## RunICSS v2.0 (2021-09-08)
+A ICSS version of *RunGJF*. *RunICSS* will not convert .chk file to .fchk and make folder for each job.
+
 ## gimicInp v0.2 for Python (2021-06-07)
 *gimicInp* is a Python script for generating GIMIC input file.
 User can specify the parameters and the input file **gimic.inp** will be saved at current dictionary.

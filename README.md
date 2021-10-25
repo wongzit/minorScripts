@@ -39,3 +39,6 @@ The functions are same in both Python and Bash shell scripts.
 
 ## pdb2xyz v1.0 (2021-06-10)
 *pdb2xyz* is a Python script for converting .pdb file to .xyz file.
+
+## pdb2gjf v1.0 (2021-10-25)
+*pdb2gjf* is a Python script for creating Gaussian input file (*.gjf*) from protein data bank file (*.pdb*).

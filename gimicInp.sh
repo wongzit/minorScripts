@@ -13,7 +13,7 @@ echo "*                           Last update: 2021-06-09                       
 echo "*                                                                             *"
 echo "*                             -- Catch me with --                             *"
 echo "*                         E-mail  wongzit@yahoo.co.jp                         *"
-echo "*                       Homepage  https://www.wangzhe95.net                   *"
+echo "*                       Homepage  https://wongzit.github.io                   *"
 echo "*                         GitHub  https://github.com/wongzit                  *"
 echo "*                                                                             *"
 echo "*******************************************************************************"

@@ -135,7 +135,7 @@ echo "    origin=[$gridOrigin]" >> $gimicInp
 echo "    ivec=[$ivec]" >> $gimicInp
 echo "    jvec=[$jvec]" >> $gimicInp
 echo "    lengths=[$lengths]" >> $gimicInp
-echo "    grid_point=[$gridPoint]" >> $gimicInp
+echo "    grid_points=[$gridPoint]" >> $gimicInp
 echo "}" >> $gimicInp
 echo >> $gimicInp
 

@@ -42,3 +42,9 @@ The functions are same in both Python and Bash shell scripts.
 
 ## pdb2gjf v1.0 (2021-10-25)
 *pdb2gjf* is a Python script for creating Gaussian input file (*.gjf*) from protein data bank file (*.pdb*).
+
+## Planirty_checker (2021-11-15)
+Check the planirty of a molecule. Visualizing with VMD.
+
+## inpModifier (2022-03-14)
+Modify several Gaussian input files at once.

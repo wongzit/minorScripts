@@ -48,3 +48,6 @@ Check the planirty of a molecule. Visualizing with VMD.
 
 ## inpModifier (2022-03-14)
 Modify several Gaussian input files at once.
+
+## uniConv (2023-02-01)
+Convert energy between Hartree, kJ/mol, kcal/mol, cm^-1 and nm. Also support calculate energy difference by inputting two energy values.

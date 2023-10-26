@@ -2,7 +2,7 @@
 
 This repo includes some small/minor scripts written by Zhe Wang.
 
-**E-mail** wongzit@yahoo.co.jp
+**E-mail** wang.zhe.dr@gmail.com
 
 **Homepage** https://wongzit.github.io
 
